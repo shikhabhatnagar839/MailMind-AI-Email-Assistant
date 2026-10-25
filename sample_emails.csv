@@ -1,0 +1,8 @@
+
+subject,sender,date,body
+Interview Invitation,hr@techcorp.example,2026-10-20,"Your technical interview is scheduled for October 28 at 11 AM. Please bring your resume and college ID."
+Required Documents,placement@college.example,2026-10-21,"Submit an updated resume, college ID, and academic marksheets before the placement interview."
+Interview Rescheduling,hr@techcorp.example,2026-10-22,"The interview has been moved to October 29 at 2 PM. Please confirm your availability."
+Project Submission,professor@college.example,2026-10-18,"Submit your AI project report and source code by October 30. Include methodology and results."
+Internship Opportunity,recruiter@startup.example,2026-10-19,"We are hiring AI interns with Python knowledge and understanding of LLMs, embeddings, and RAG."
+Meeting Notes,manager@company.example,2026-10-17,"The team meeting is on Friday at 3 PM. Prepare the project progress report."
