@@ -1,3 +1,4 @@
 
 faiss-cpu
 python-dotenv
+groq
