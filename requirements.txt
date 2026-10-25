@@ -1,1 +1,3 @@
+
 faiss-cpu
+python-dotenv
